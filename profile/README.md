@@ -3,8 +3,6 @@
 A **backend + infra sandbox** for payments systems, focused on orchestration, compliance, ACH, and operational visibility.  
 Built with **Java + Spring Boot**, **Moov ACH**, **OPA**, and **Orkes Conductor**.
 
----
-
 ## Quick Start
 Run the platform locally with Docker Compose:
 
